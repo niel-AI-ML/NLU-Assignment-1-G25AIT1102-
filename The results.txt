@@ -1,0 +1,2 @@
+The results from 10 epochs are more accurate because it is trained on larger training set (43000).
+30 epoch is less accurate because it is trained on small training set (10000)
